@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mijewel!</h1>
-<h3 align="center">I'm a Student, Front-End Developer, Mobile App Developer and a Learner!</h3>
+<h3 align="center">I'm a Student, Front-End Developer, Mobile App Developer UI/UX Designer and a Learner!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mijewljose&label=Profile%20views&color=0e75b6&style=flat" alt="mijewljose" /> </p>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning Flutter, and steped to AI
 
 - 📫 How to reach me **mijewel.jose20@gmail.com**
 
